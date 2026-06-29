@@ -1,41 +1,57 @@
-<h1 align="center">Hi 👋, I'm Hemanthi Reddy</h1>
-<h3 align="center">Aspiring AI/ML Engineer | Python Developer | Data Science Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Hemanthi Anugu</h1>
 
----
+<h3 align="center">
+🤖 AI & Machine Learning Engineer | Python Developer | Data Science Enthusiast 🚀
+</h3>
 
-### 🚀 About Me
-- 🎓 CSE Student passionate about AI & Data Science
-- 💡 I build real-world ML projects
-- 🌱 Currently learning Advanced Machine Learning & Deep Learning
-- 🎯 Goal: Become a Top 1% AI Engineer
-
----
-
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)
-
----
-
-### 📌 Featured Projects
-- 🤖 Student Performance Prediction
-- 📧 Email Spam Detection
-- 🧠 Sign Language Detection
-- 📊 Employee Attrition Analysis
-- 🌐 Portfolio Website
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hemanthi16&show_icons=true&theme=radical" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Python+Developer;Data+Science+Enthusiast;NLP+Learner;Building+AI+Solutions"/>
+</p>
+
+<p align="center">
+<a href="https://hemanthi.com"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge"/></a>
+<a href="https://linkedin.com/in/hemanthi-anugu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hemanthireddy16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Hemanthi16"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🔗 Connect With Me
-- LinkedIn: www.linkedin.com/in/hemanthi-anugu
-- Email: hemanthi-anugu@gmail.com
+# 🚀 About Me
+- 🎓 B.Tech Computer Science (Data Science) (2022–2026)
+- 🤖 Passionate about AI, Machine Learning and NLP
+- 🌱 Learning Deep Learning, Generative AI & LLMs
+- 💡 Building real-world AI projects
+- 📍 Hyderabad, Telangana
+
+# 🏆 Featured Projects
+- 🤟 Sign Language Detection
+- 📝 Automatic Text Summarization
+- 🎓 College Placement Analysis
+- 👨‍💼 Employee Attrition Analysis
+- 🌟 IKIGAI Career Guidance Platform
+
+# ⚙️ Skills
+`Python` `R` `C` `NumPy` `Pandas` `Matplotlib`
+`Scikit-Learn` `MySQL` `Power BI` `Excel`
+`Machine Learning` `NLP` `TF-IDF` `Word2Vec`
+
+# 📜 Certifications
+- NS2 Network Simulation
+- Tata Group Data Visualisation
+- Forage Solutions Architecture
+- Simplilearn Flutter Introduction
+
+# 📊 GitHub Stats
+```html
+<img src="https://github-readme-stats.vercel.app/api?username=Hemanthi16&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanthi16&theme=tokyonight"/>
+```
+
+# 🌐 Connect
+- 📧 hemanthireddy16@gmail.com
+- 💻 https://github.com/Hemanthi16
+- 🔗 https://linkedin.com/in/hemanthi-anugu
+- 🌐 https://hemanthi.com
+
+<h2 align="center">⭐ Thanks for visiting my profile ⭐</h2>
